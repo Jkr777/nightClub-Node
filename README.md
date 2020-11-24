@@ -1,4 +1,4 @@
-* you need to use your own AWS key ('./routes/events').
+
 * about:
   - This project uses mongoDB database.
   - Express framework was used to create the server.
